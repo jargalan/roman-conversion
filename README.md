@@ -24,3 +24,9 @@ Dependencies:
 - Java Validation API
 - Lombok
 - JUnit4
+
+Success response structure:
+![](images/validResponse.png)
+
+Error response structure:
+![](images/invalidResponse.png)
